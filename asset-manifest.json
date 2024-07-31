@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/exam_halamhung/static/js/main.b58e2baa.js",
-    "index.html": "/exam_halamhung/index.html",
-    "main.b58e2baa.js.map": "/exam_halamhung/static/js/main.b58e2baa.js.map"
+    "main.js": "/Exam_KITS/static/js/main.b58e2baa.js",
+    "index.html": "/Exam_KITS/index.html",
+    "main.b58e2baa.js.map": "/Exam_KITS/static/js/main.b58e2baa.js.map"
   },
   "entrypoints": [
     "static/js/main.b58e2baa.js"
