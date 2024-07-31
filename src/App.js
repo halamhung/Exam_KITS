@@ -1,8 +1,8 @@
-import Exam1 from "./components/Exam1";
+import ChemicalItem from "./ChemicalApp/ChemicalItem";
 function App() {
   return (
     <>
-      <Exam1 />
+      <ChemicalItem />
     </>
   );
 }
